@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\Bomb.cs">
+    <Files>
+      <File FileName="Assets\c#\Bomb.cs" Line="30" Column="56" />
+      <File FileName="Assets\c#\Pig.cs" Line="54" Column="30" />
+      <File FileName="Assets\c#\GameManager.cs" Line="101" Column="24" />
+      <File FileName="Assets\c#\Stone.cs" Line="19" Column="23" />
+      <File FileName="Assets\c#\Unit.cs" Line="92" Column="22" />
+      <File FileName="Assets\c#\Dog.cs" Line="19" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
